@@ -1,0 +1,38 @@
+.btn-buttont-tab {
+	background-color: #6C757D;
+	color: white;
+}
+.btn-buttont-tab:hover {
+	background-color: #858F99;
+	color: white;
+}
+.btn-buttont-tab-active {
+	border: 2px solid #6C757D;
+	color: #6C757D;
+
+}
+.btn-buttont-tab-active:hover {
+	border: 2px #6C757D solid;
+	color: #6C757D;
+}
+
+.text-red {
+	color: #ED1212;
+}
+.text-green {
+	color: #1E6641;
+}
+.text-blue {
+	color: #213770;
+}
+.publishstyle {
+	height: 80px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.mySteps {
+	font-weight: bold;
+	font-family: impact;
+	font-size: 20px;
+}

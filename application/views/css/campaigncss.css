@@ -1,0 +1,13 @@
+.campaign_url {
+	cursor: pointer;
+	text-decoration: underline;
+}
+.campaign_url:hover {
+	color: #8B98A5;
+}
+.normalstyle_link {
+	text-decoration: none;
+}
+.normalstyle_link:hover {
+	text-decoration: none;
+}
